@@ -1,2 +1,0 @@
-# Mang
-vue project
